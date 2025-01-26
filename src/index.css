@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style-type: none;
+}
+
+body {
+  background: #fff;
+}
+
+::placeholder {
+  color: black;
+}
+
+option {
+  color: #fff;
+}
+
+.active {
+  color: #14b8a6;
+}
